@@ -32,6 +32,11 @@ const Header = () => {
       <Navbar
         expand="md"
         className={`ms-auto ${scrolled ? "navbar-scrolled" : ""}`}
+        style={{
+          position: "fixed",
+          top: "0", // Add this style
+          zIndex: 1000,
+        }}
       >
         <Container fluid>
           {/* Mengganti Navbar.Brand dengan gambar */}

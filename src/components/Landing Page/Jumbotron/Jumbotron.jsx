@@ -20,11 +20,7 @@ const Jumbotron = (props) => {
             untuk diingat bahwa kesehatan mental memiliki dampak yang sama
             besarnya terhadap kualitas hidup kita
           </p>
-          <Button
-            variant="success"
-            className="nav-button"
-            onClick={() => navigate("/")}
-          >
+          <Button variant="success" className="nav-button" href="#footer">
             Get Started
           </Button>
         </Col>

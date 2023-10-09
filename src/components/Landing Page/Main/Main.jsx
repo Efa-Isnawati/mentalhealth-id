@@ -27,43 +27,35 @@ const Main = () => {
                 icon={faCheck}
                 style={{ border: "3px solid #BEADFA", borderRadius: "10px" }}
               />
-              Cemas : Khawatir berlebihan, merasa sesuatu buruk akan terjadi
-              mudah amarah
+              Cemas
             </li>
             <li className="list">
               <FontAwesomeIcon
                 icon={faCheck}
                 style={{ border: "3px solid #BEADFA", borderRadius: "10px" }}
               />
-              Stres di Tempat Kerja: Beban kerja yang berat, tenggat waktu yang
-              ketat, atau konflik di lingkungan kerja dapat menyebabkan tingkat
-              stres yang tinggi
+              Stres di Tempat Kerja
             </li>
             <li className="list">
               <FontAwesomeIcon
                 icon={faCheck}
                 style={{ border: "3px solid #BEADFA", borderRadius: "10px" }}
               />
-              Depresi: Perasaan sedih, kehilangan minat atau kegembiraan dalam
-              aktivitas, serta perasaan putus asa dan kecemasan yang mendalam
-              adalah gejala depresi
+              Depresi
             </li>
             <li className="list">
               <FontAwesomeIcon
                 icon={faCheck}
                 style={{ border: "3px solid #BEADFA", borderRadius: "10px" }}
               />
-              Gangguan Mood: Termasuk bipolar disorder, yang ditandai oleh
-              perubahan suasana hati yang ekstrim, dari mania hingga depresi.
+              Gangguan Mood
             </li>
             <li className="list">
               <FontAwesomeIcon
                 icon={faCheck}
                 style={{ border: "3px solid #BEADFA", borderRadius: "10px" }}
               />
-              Trauma atau PTSD: Pengalaman traumatis, seperti kecelakaan,
-              pelecehan, atau perang, dapat menyebabkan gangguan stres
-              pascatrauma (PTSD).
+              Trauma atau PTSD
             </li>
           </Col>
         </Row>
